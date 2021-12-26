@@ -33,5 +33,5 @@ code = "017"
 while True:
       ran_num = random.randint(11111111,99999999)
       t_num = code+str(ran_num)
-      print(f"\33[1;32m[D3V1L-CP] {t_num} || 123456,1234567")
+      print(f"\33[1;32m[D3V1L-CP][Login After -  {t_num} || 112211")
       time.sleep(1)
