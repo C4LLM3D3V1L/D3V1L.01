@@ -28,10 +28,10 @@ IT'S NOT JUST A NAME, IT'S A BRAND
 
 print(logo)
 
-code = "1000"
+code = "017"
 #ran_num = random.randint(11111111,99999999)
 while True:
       ran_num = random.randint(11111111,99999999)
       t_num = code+str(ran_num)
-      print(f"\33[1;32m[D3V1L-CP] {t_num} || 123456")
+      print(f"\33[1;32m[D3V1L-CP] {t_num} || 123456,1234567")
       time.sleep(1)
