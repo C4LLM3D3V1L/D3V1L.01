@@ -1,10 +1,10 @@
 # D3V1L.01
 
-Tool install
+- Tool install
 
 
-cd D3V1L.01
+$ cd D3V1L.01
 
-ls
+$ ls
 
-python d3v1l.py
+$ python d3v1l.py
